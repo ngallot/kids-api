@@ -1,0 +1,6 @@
+.idea/*
+.git*
+venv/*
+README.md
+*env*
+*pytest*
